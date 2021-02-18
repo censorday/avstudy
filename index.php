@@ -56,7 +56,7 @@ h2{
 
 .circle{
   margin-top:2%;
-  margin-right: 8%;
+  margin-right: 6%;
   text-align:center;
   height:100px;
   width:100px;
