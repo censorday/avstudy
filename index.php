@@ -40,7 +40,7 @@ h2{
   margin-top:30px;
   margin-bottom:15px;
   background-color:white;
-  height:450px;
+  min-height:450px;
   text-align:center;
   color:#434C55;
   overflow:hidden;
@@ -49,12 +49,14 @@ h2{
   padding-top:5px;
   margin-top:10px;
   margin-bottom:45px;
-  height:250px;
+  min-height:240px;
   text-align:center;
   
 }
+
 .circle{
-  margin-top:5px;
+  margin-top:2%;
+  margin-right: 8%;
   text-align:center;
   height:100px;
   width:100px;
@@ -70,7 +72,8 @@ h2{
 }
 
 .card{
-  margin-top:5px;
+  margin-top:3%;
+  margin-right:4%;
   text-align:center;
   height:160px;
   width:130px;
