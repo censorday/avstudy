@@ -104,14 +104,14 @@ h2{
   <img src="https://avstudy.herokuapp.com/ttable.png" height="300"> 
 </section>
 <section class="secbot">
-  <h2>Syllabus</h2>
-<div class="circle"><p>P.I.J</p></div>
-<div class="circle"><p>W.D</p></div>
-<div class="circle"><p>N.T.M</p></div>
-<div class="circle"><p>E.D.M</p></div>
-<div class="circle"><p>L. Lab</p></div>
-  
+ <h2>Syllabus</h2>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/pijsyl.php"><div class="circle"><p>P.I.J</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/wdsyl.php"><div class="circle"><p>W.D</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/ntmsyl.php"><div class="circle"><p>N.T.M</p></div> </a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/edmsyl.php"><div class="circle"><p>E.D.M</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/llabsyl.php"><div class="circle"><p>L. Lab</p></div></a>
 </section>
+
 
 
 <section class="secmid">
