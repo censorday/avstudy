@@ -61,7 +61,7 @@ h2{
 
 <body>
 <div class="sectop">
-  <h2 id="top">AV-STUDY</h2>
+   <a style="text-decoration:none" href="https://avstudy.herokuapp.com/"><h2 id="top">AV-STUDY</h2></a>
   <hr>
   <br>
   <h3 class="intro"><B>(E.D.M)</B> <br> </h3>
