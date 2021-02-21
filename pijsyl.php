@@ -73,7 +73,7 @@ h2{
 <section class="secmid">  
   <h3>Syllabus</h3>
   <br>
-  <iframe src="https://avstudy.herokuapp.com/syl/pijsyl.pdf" type="application/pdf" width="96%" height="600px" />
+  <iframe src="https://avstudy.herokuapp.com/syl/sylpij.pdf" type="application/pdf" width="96%" height="600px" />
 
 </section>
 
