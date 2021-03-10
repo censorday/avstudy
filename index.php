@@ -51,6 +51,19 @@ h2{
   margin-bottom:45px;
   min-height:240px;
   text-align:center;
+  border:solid 1px white;
+  border-radius:1%;
+  
+}
+.secfoot{
+  padding-top:5px;
+  padding-bottom:20px;
+  margin-top:10px;
+  margin-bottom:45px;
+  min-height:240px;
+  text-align:center;
+  border:solid 1px white;
+  border-radius:1%;
   
 }
 
@@ -125,6 +138,11 @@ h2{
   
 </section>
 
+  <section class="secfoot">
+  <h2>How I Created this Page...</h2>
+<iframe width="560" height="285" src="https://www.youtube.com/watch?v=n6PBU-MZcR0">
+</iframe>
+</section>
 
 </body>
 </html>
