@@ -19,8 +19,8 @@ h2{
   font-weight:100;
 }
 .sectop{
-  margin-top:30px;
-  margin-bottom:45px;
+  margin-top:20px;
+  margin-bottom:65px;
   height:520px;
   text-align:center;
   color:white;
@@ -32,8 +32,8 @@ h2{
   letter-spacing:15px;
  text-align:center;
 }
-#name,#sml{
-  padding-top:220px;
+#name{
+  padding-top:5px;
 }
 .secmid{
   padding-top:20px;
@@ -108,7 +108,8 @@ h2{
    <a style="text-decoration:none" href="https://avstudy.herokuapp.com/"><h2 id="top">AV-STUDY</h2></a>
   <hr>
   <br>
-  <h3 class="intro">STUDY <br><br>RESOURCES</h3>
+  <h3 class="intro">STUDY <br><br>RESOURCES</h3><br>
+  <img src="https://avstudy.herokuapp.com/logo.png" height="200">
    <h2 id="name">By Aman Vashishth</h2>
   <small id="sml">(Only 4th Sem Content is available here)</small>
 </div>
