@@ -47,8 +47,9 @@ h2{
 }
 .secbot{
   padding-top:5px;
+  padding-bottom:20px;
   margin-top:10px;
-  margin-bottom:45px;
+  margin-bottom:5px;
   min-height:240px;
   text-align:center;
   border:solid 1px white;
@@ -73,6 +74,7 @@ h2{
   text-align:center;
   height:100px;
   width:100px;
+  color:white;
   background-color:white;
   border-radius:50%;
   border:1px solid;
@@ -82,6 +84,11 @@ h2{
 .circle:hover{
   transform:scale(1.09);
   transition:all 0.2s ease-in-out;
+}
+.circle img {
+  border-radius: 50%;
+  width: 100% ;
+	opacity: 0.7;
 }
 
 .card{
@@ -119,11 +126,11 @@ h2{
 </section>
 <section class="secbot">
  <h2>Syllabus</h2>
-<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/pijsyl.php"><div class="circle"><p>P.I.J</p></div></a>
-<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/wdsyl.php"><div class="circle"><p>W.D</p></div></a>
-<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/ntmsyl.php"><div class="circle"><p>N.T.M</p></div> </a>
-<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/edmsyl.php"><div class="circle"><p>E.D.M</p></div></a>
-<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/llabsyl.php"><div class="circle"><p>L. Lab</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/pijsyl.php"><div class="circle"> <img src="http://avstudy.herokuapp.com/pic/java.jpg"><p>P.I.J</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/wdsyl.php"><div class="circle"><img src="http://avstudy.herokuapp.com/pic/wd.jpg"><p>W.D</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/ntmsyl.php"><div class="circle"><img src="http://avstudy.herokuapp.com/pic/ntm.jpg"><p>N.T.M</p></div> </a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/edmsyl.php"><div class="circle"><img src="http://avstudy.herokuapp.com/pic/edm.jpg"><p>E.D.M</p></div></a>
+<a style="text-decoration:none" href="https://avstudy.herokuapp.com/syl/llabsyl.php"><div class="circle"><img src="http://avstudy.herokuapp.com/pic/llab.jpg"><p>L. Lab</p></div></a>
 </section>
 
 
