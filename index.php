@@ -44,6 +44,7 @@ h2{
   text-align:center;
   color:#434C55;
   overflow:hidden;
+  border-radius:1%;
 }
 .secbot{
   padding-top:5px;
