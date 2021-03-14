@@ -5,6 +5,7 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&display=swap');
 body{
+  background-image: url(https://avstudy.herokuapp.com/bgm.jpg);
   background-color:#434C55;
   font-family:'Cairo', sans-serif;
 }
