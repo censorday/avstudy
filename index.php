@@ -37,13 +37,16 @@ h2{
   padding-top:5px;
 }
 .secmid{
+  background-color:rgba(25,129,225,0.15);
+  backdrop-filter:blur(2px);
+  box-shadow: 5px 7px 12px black;
+  border-radius:2%;
   padding-top:20px;
   margin-top:30px;
   margin-bottom:15px;
-  background-color:white;
   min-height:450px;
   text-align:center;
-  color:#434C55;
+  color: white;
   overflow:hidden;
   border-radius:1%;
 }
