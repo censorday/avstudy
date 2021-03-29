@@ -7,6 +7,7 @@ AVstudy
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200&display=swap');
 body{
+  background-image:url(https://avstudy.herokuapp.com/neo.png);
   background-color:#434C55;
   font-family:'Cairo', sans-serif;
 }
@@ -39,12 +40,16 @@ h2{
 }
 .secmid{
   padding-top:20px;
+  padding-bottom:20px;
   margin-top:30px;
   margin-bottom:15px;
-  background-color:white;
+  background-color:rgba(25,155,225,0.3);
+  backdrop-filter:blur(15px);
+  border-radius:2%;
+  box-shadow:5px 8px 12px black;
   min-height:450px;
   text-align:center;
-  color:#434C55;
+  color:white;
   overflow:hidden;
 }
 .secbot{
@@ -55,6 +60,8 @@ h2{
   text-align:center;
   
 }
+
+
 
 
 </style>
@@ -71,7 +78,7 @@ h2{
 </div>      
            
 <section class="secmid">  
-  <h3>Syllabus</h3>
+    <h2>Syllabus</h2>
   <br>
   <iframe src="https://avstudy.herokuapp.com/syl/sylpij.pdf" type="application/pdf" width="96%" height="600px" />
 
